@@ -1,10 +1,3 @@
-@-moz-document domain("github.com") {
-  .highlight > pre, pre > code {
-    max-height: 200px !important;
-    overflow-y: auto !important;
-  }
-}
-
 ## Learning Algorithm
 
 The current solution implements a Dueling DDQN algorithm with Prioritized Experience Replay.
